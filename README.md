@@ -43,3 +43,7 @@ The objective of this project is to automate the creation of dummy applicant dat
 ## Author
 
 Developed by Sani Devi
+
+You can access this app by using the following link:
+https://fake-applicant-generator-f7z2pw9wzyatuj2nrxf3nx.streamlit.app/
+
